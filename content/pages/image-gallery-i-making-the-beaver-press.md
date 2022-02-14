@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Image Gallery I - Making the Beaver Press
+type: CourseSection
 uid: d5eb05af-c075-0701-5694-f196e945a11c
 ---
 

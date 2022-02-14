@@ -20,7 +20,11 @@ image_metadata:
   credit: Image by Ken Stone, MIT Hobby Shop.
   image-alt: A line drawing showing a view of a joint on a printing press,  with words
     identifying specific parts.
+learning_resource_types: []
+parent_title: Image Gallery I - Making the Beaver Press
+parent_type: CourseSection
 resourcetype: Image
 title: Image 4 - Section view of joint details diagram of the Beaver Press
+type: OCWImage
 uid: 44bd0ce5-52b1-96f6-7544-8b2e78018c93
 ---

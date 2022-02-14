@@ -7,7 +7,11 @@ image_metadata:
   caption: The Beaver Press, established 2016 C.E.
   credit: Photography by Jeffrey S. Ravel.
   image-alt: ''
+learning_resource_types: []
+parent_title: Image Gallery III
+parent_type: CourseSection
 resourcetype: Image
 title: Image1.jpg
+type: OCWImage
 uid: d72136c3-be81-a426-8a61-ec4b814dca86
 ---

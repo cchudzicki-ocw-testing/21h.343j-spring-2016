@@ -7,7 +7,11 @@ image_metadata:
   caption: The printing press, built by 21H.343J / CC.120J in Spring 2016.
   credit: Photography by Jeffrey S. Ravel.
   image-alt: ''
+learning_resource_types: []
+parent_title: Image Gallery III
+parent_type: CourseSection
 resourcetype: Image
 title: Image2.jpg
+type: OCWImage
 uid: 200788e3-2036-2691-24b2-08fcd6b92e2b
 ---

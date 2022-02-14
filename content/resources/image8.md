@@ -7,7 +7,11 @@ image_metadata:
   caption: A piece of paper dries.
   credit: Photograph by Jonathan Sachs / Jonathan Sachs Graphics, Inc.
   image-alt: A thin, flat, dry,pink-cotton-like substance rests on a table.
+learning_resource_types: []
+parent_title: Image Gallery II
+parent_type: CourseSection
 resourcetype: Image
 title: Image8.jpg
+type: OCWImage
 uid: a692163d-71b8-40b6-b142-ec88aebf64f6
 ---

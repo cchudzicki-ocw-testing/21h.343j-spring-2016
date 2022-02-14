@@ -7,7 +7,11 @@ image_metadata:
   caption: Students view printed copies of a booklet.
   credit: Photography by Jeffrey S. Ravel.
   image-alt: ''
+learning_resource_types: []
+parent_title: Image Gallery III
+parent_type: CourseSection
 resourcetype: Image
 title: Image8.jpg
+type: OCWImage
 uid: 79e94bff-84ba-40da-dca2-7e700a885c5f
 ---

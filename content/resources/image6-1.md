@@ -7,7 +7,11 @@ image_metadata:
   caption: Students inking type.
   credit: Photography by Jeffrey S. Ravel.
   image-alt: ''
+learning_resource_types: []
+parent_title: Image Gallery III
+parent_type: CourseSection
 resourcetype: Image
 title: Image6.jpg
+type: OCWImage
 uid: ee91fbd6-0ec7-bd95-22f5-30f9905abe5e
 ---

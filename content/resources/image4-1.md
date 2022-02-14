@@ -8,7 +8,11 @@ image_metadata:
   credit: Photograph by Jonathan Sachs / Jonathan Sachs Graphics, Inc.
   image-alt: A greying-haired google-wearing gentleman helps a couple of students
     screw an object into a wooden block.
+learning_resource_types: []
+parent_title: Image Gallery II
+parent_type: CourseSection
 resourcetype: Image
 title: Image4.jpg
+type: OCWImage
 uid: 6ca98871-31af-bbd2-a734-91656a05bf6f
 ---

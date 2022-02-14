@@ -17,7 +17,11 @@ image_metadata:
   credit: Image by Ken Stone, MIT Hobby Shop.
   image-alt: A line drawing showing the top view of a printing press with words identifying
     specific parts.
+learning_resource_types: []
+parent_title: Image Gallery I - Making the Beaver Press
+parent_type: CourseSection
 resourcetype: Image
 title: Image 3 - Top view diagram of  the Beaver Press
+type: OCWImage
 uid: adffac5f-3ea2-87fd-ece6-ef9ec4830d05
 ---

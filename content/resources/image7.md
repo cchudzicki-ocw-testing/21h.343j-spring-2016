@@ -9,7 +9,11 @@ image_metadata:
   image-alt: A glove-wearing student stands over a plastic water-filled containers
     filled with a pink, cotton-like substance. To his left, another students spreads
     a thin, flat, dry,pink-cotton-like substance on a table.
+learning_resource_types: []
+parent_title: Image Gallery II
+parent_type: CourseSection
 resourcetype: Image
 title: Image7.jpg
+type: OCWImage
 uid: cd61eb2f-103c-6ff8-31a4-c8b80ce8b1b3
 ---

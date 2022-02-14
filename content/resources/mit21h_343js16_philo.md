@@ -4,7 +4,12 @@ description: 'This resource contains the information regarding Making Books - Le
   Slides: Natural Philosophy.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/4880a66e64435dd8050f3e882be4652f_MIT21H_343JS16_Philo.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: '21H.343J/CC.120J Making Books - Lecture Slides: Natural Philosophy'
+type: OCWFile
 uid: 4880a66e-6443-5dd8-050f-3e882be4652f
 ---

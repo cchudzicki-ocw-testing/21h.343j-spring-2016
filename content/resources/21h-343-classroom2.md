@@ -8,7 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: MIT Hobby Shop
+type: OCWImage
 uid: 921ca4b1-7eeb-48f2-793b-c439c31e1611
 ---
