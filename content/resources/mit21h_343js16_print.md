@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.343J/CC.120J Making Books - Lecture Slides: Printing Presses'
-type: OCWFile
 uid: d3cb0413-e151-4d61-0a57-80a1d4df9281
 ---

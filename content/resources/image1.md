@@ -36,6 +36,5 @@ parent_title: Image Gallery I - Making the Beaver Press
 parent_type: CourseSection
 resourcetype: Image
 title: Image 1 - End view diagram of the Beaver Press
-type: OCWImage
 uid: ffd3fea2-cf93-2a20-7257-9f1182251e33
 ---

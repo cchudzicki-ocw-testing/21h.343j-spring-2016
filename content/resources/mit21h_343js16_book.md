@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.343J/CC.120J Making Books - Lecture Slides: Book of Hours'
-type: OCWFile
 uid: 9618163e-7d9a-c491-a63b-9c63e266b72c
 ---

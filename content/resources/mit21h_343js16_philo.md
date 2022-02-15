@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.343J/CC.120J Making Books - Lecture Slides: Natural Philosophy'
-type: OCWFile
 uid: 4880a66e-6443-5dd8-050f-3e882be4652f
 ---

@@ -12,6 +12,5 @@ parent_title: Image Gallery III
 parent_type: CourseSection
 resourcetype: Image
 title: Image2.jpg
-type: OCWImage
 uid: 200788e3-2036-2691-24b2-08fcd6b92e2b
 ---

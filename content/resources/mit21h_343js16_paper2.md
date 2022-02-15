@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 21H.343J/CC.120J Making Books - Second Paper Topics
-type: OCWFile
 uid: 0b313df8-93a5-f0d5-7df3-1a378c83d834
 ---

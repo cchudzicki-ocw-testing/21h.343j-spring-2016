@@ -7,7 +7,6 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 title: "Allaying Educators\u2019 Skepticism about Facilitating a Hands-on Humanities\
   \ Course "
-type: CourseSection
 uid: 668f604c-7420-f740-c83b-6c277ab6d628
 ---
 

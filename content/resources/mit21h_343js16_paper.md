@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.343J/CC.120J Making Books - Lecture Slides: Paper Making'
-type: OCWFile
 uid: d474feda-0106-6bb6-300f-0c1e560b69b5
 ---

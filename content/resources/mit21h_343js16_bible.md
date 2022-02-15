@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.343J/CC.120J Making Books - Lecture Slides: Bible In Print'
-type: OCWFile
 uid: 542dd841-f35e-2fc2-e8e4-a9bd5345259d
 ---

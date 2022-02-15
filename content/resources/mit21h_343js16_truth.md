@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 21H.343J/CC.120J Making Books - Student Example 2
-type: OCWFile
 uid: b3aa3b4c-a0e1-57de-1f78-d7c7c95e72a7
 ---

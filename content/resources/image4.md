@@ -25,6 +25,5 @@ parent_title: Image Gallery I - Making the Beaver Press
 parent_type: CourseSection
 resourcetype: Image
 title: Image 4 - Section view of joint details diagram of the Beaver Press
-type: OCWImage
 uid: 44bd0ce5-52b1-96f6-7544-8b2e78018c93
 ---

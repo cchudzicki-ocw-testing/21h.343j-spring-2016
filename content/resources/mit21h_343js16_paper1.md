@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 21H.343J/CC.120J Making Books - First Paper Topics
-type: OCWFile
 uid: f5c00f5c-9275-8653-5a45-3a8c499831c2
 ---
