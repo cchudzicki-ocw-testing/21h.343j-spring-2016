@@ -18,6 +18,7 @@ image_metadata:
   image-alt: A line drawing showing the top view of a printing press with words identifying
     specific parts.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Image Gallery I - Making the Beaver Press
 parent_type: CourseSection
 resourcetype: Image

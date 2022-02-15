@@ -8,6 +8,7 @@ image_metadata:
   credit: Photograph by Jeffrey Ravel.
   image-alt: A structure comprised of individual pieces of wood.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
 resourcetype: Image

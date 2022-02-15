@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Five protective-goggle wearing students make measurements on  the frame
     of a wooden structure.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
 resourcetype: Image

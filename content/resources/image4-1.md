@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A greying-haired google-wearing gentleman helps a couple of students
     screw an object into a wooden block.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
 resourcetype: Image

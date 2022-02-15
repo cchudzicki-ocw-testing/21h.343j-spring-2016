@@ -9,6 +9,7 @@ image_metadata:
   credit: Photography by Jeffrey S. Ravel.
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Image Gallery III
 parent_type: CourseSection
 resourcetype: Image

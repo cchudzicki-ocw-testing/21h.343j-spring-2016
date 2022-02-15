@@ -8,6 +8,7 @@ image_metadata:
   credit: Photograph by Jonathan Sachs / Jonathan Sachs Graphics, Inc.
   image-alt: A thin, flat, dry,pink-cotton-like substance rests on a table.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
 resourcetype: Image

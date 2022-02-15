@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Two students hold a piece of the printing press, while another applies
     a screw.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
 resourcetype: Image
