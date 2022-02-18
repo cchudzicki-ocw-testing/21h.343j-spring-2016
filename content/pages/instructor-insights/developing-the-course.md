@@ -12,7 +12,7 @@ uid: 2a10e49b-5443-b31f-0468-4df53672b9bf
 
 _In this section, Professor Jeffrey Ravel describes the inspiration for developing_ 21H.343J / CC.120J Making Books: The Renaissance and Today_. He also shares community resources he and his co-instructors used to learn more about presses and handset printing prior to teaching the course, advice to other educators developing similar courses, and his vision for future course iterations._
 
-![Image of a printing press made out of wood.]({{< resource_file 1c57a5f4-231a-dbf6-5928-6e6f900954da >}})
+{{< resource 1c57a5f4-231a-dbf6-5928-6e6f900954da >}}
 
 The printing press built by students in the MIT Hobby Shop.
 
