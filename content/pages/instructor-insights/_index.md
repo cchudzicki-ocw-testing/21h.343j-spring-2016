@@ -39,11 +39,11 @@ Instructor Insights
 
 _In the following pages, Professors Anne McCants and Jeffrey Ravel describe various aspects of how they taught_ 21H.343J / CC.120J Making Books: The Renaissance and Today_._
 
-*   {{< resource_link 2a10e49b-5443-b31f-0468-4df53672b9bf "Developing the Course" >}}
-*   {{< resource_link fd1f70ad-d824-664c-21d5-2724e20f0f61 "Using Archival Experiences to Ground Readings and Hands-on Learning" >}}
-*   {{< resource_link 668f604c-7420-f740-c83b-6c277ab6d628 "Allaying Educators’ Skepticism about Facilitating a Hands-on Humanities Course" >}}
-*   {{< resource_link c60e9eca-e373-eb11-c5a4-1cd63bb8c2aa "The Role of Online Fora" >}}
-*   {{< resource_link fc399584-e0b8-f0f6-6ecc-27362e24c09b "What Will Happen to the Printing Press Now?" >}}
+*   {{% resource_link 2a10e49b-5443-b31f-0468-4df53672b9bf "Developing the Course" %}}
+*   {{% resource_link fd1f70ad-d824-664c-21d5-2724e20f0f61 "Using Archival Experiences to Ground Readings and Hands-on Learning" %}}
+*   {{% resource_link 668f604c-7420-f740-c83b-6c277ab6d628 "Allaying Educators’ Skepticism about Facilitating a Hands-on Humanities Course" %}}
+*   {{% resource_link c60e9eca-e373-eb11-c5a4-1cd63bb8c2aa "The Role of Online Fora" %}}
+*   {{% resource_link fc399584-e0b8-f0f6-6ecc-27362e24c09b "What Will Happen to the Printing Press Now?" %}}
 
 Student Insights
 ----------------
@@ -52,8 +52,8 @@ Student Insights
 
 _In the following pages, Lauren Huang, an Electrical Engineering and Computer Science major, and Theodore Mouratidis, a recent graduate who studied Aerospace Engineering and Physics, describe their experiences as students in_ 21H.343J / CC.120J Making Books: The Renaissance and Today_._
 
-*   {{< resource_link 6e66b540-6b39-3fac-1e79-7046355f90be "Lauren: Course Components and Ideas for Iteration" >}}
-*   {{< resource_link c7a86549-e9b1-bc62-479b-84ecf88b7294 "Theodore: Prelude to the Course and Building the Printing Press" >}}
+*   {{% resource_link 6e66b540-6b39-3fac-1e79-7046355f90be "Lauren: Course Components and Ideas for Iteration" %}}
+*   {{% resource_link c7a86549-e9b1-bc62-479b-84ecf88b7294 "Theodore: Prelude to the Course and Building the Printing Press" %}}
 
 Curriculum Information
 ----------------------
@@ -126,9 +126,9 @@ Hands-on Lab
 Out of Class
 ------------
 
-*   {{< resource_link 2bdc85db-fadb-365b-f11d-42f687b509c1 "Readings and screenings" >}} in preparation for class sessions
-*   {{< resource_link 82abea80-ae9a-391f-2cda-304f03f1072d "Four forum postings" >}}
-*   {{< resource_link 82abea80-ae9a-391f-2cda-304f03f1072d "Two papers" >}}
+*   {{% resource_link 2bdc85db-fadb-365b-f11d-42f687b509c1 "Readings and screenings" %}} in preparation for class sessions
+*   {{% resource_link 82abea80-ae9a-391f-2cda-304f03f1072d "Four forum postings" %}}
+*   {{% resource_link 82abea80-ae9a-391f-2cda-304f03f1072d "Two papers" %}}
 
 Course Team Roles
 -----------------
