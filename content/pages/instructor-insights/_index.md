@@ -31,7 +31,7 @@ Melanie Gonick, “[The History of Making Books: Building a Printing Press at MI
 
 {{< quote "So much learning happens in the hands-on component [of a humanities course] when it is well integrated with the reading, writing, and historical materials because of all the time afforded for spontaneous conversation between faculty and students while engaged with the project." "— Anne McCants" >}}
 
-_In the following pages, Professors Anne McCants and Jeffrey Ravel describe various aspects of how they taught_ 21H.343J / CC.120J Making Books: The Renaissance and Today\_.\_
+_In the following pages, Professors Anne McCants and Jeffrey Ravel describe various aspects of how they taught_ 21H.343J / CC.120J Making Books: The Renaissance and Today.
 
 - {{% resource_link 2a10e49b-5443-b31f-0468-4df53672b9bf "Developing the Course" %}}
 - {{% resource_link fd1f70ad-d824-664c-21d5-2724e20f0f61 "Using Archival Experiences to Ground Readings and Hands-on Learning" %}}
