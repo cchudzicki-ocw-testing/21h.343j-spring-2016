@@ -1,14 +1,10 @@
 ---
 content_type: page
-layout: instructor_insights
-learning_resource_types: []
-ocw_type: ThisCourseAtMITSection
+draft: false
 title: Instructor Insights
 uid: 364e7205-8baf-876d-eff7-770f80369e00
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _21H.343J / CC.120J_ _Making Books: The Renaissance and Today_ as it was taught by Professors Anne McCants and Jeffrey S. Ravel in Spring 2016.
 
@@ -20,43 +16,39 @@ MIT SHASS Communications, “[In the MIT History Workshop - where building a pri
 
 Melanie Gonick, “[The History of Making Books: Building a Printing Press at MIT](https://www.youtube.com/watch?v=ioPT8oDoG_I&feature=youtu.be),” MIT News, May 25, 2016.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Learn about the history of the book in Europe from Gutenberg (ca. 1450) to the French Revolution (ca. 1800).
-*   Examine in detail European books and prints from 1450 to 1800 in the [Rare Books Collection](http://libraries.mit.edu/archives/research/rare-books.html) of the MIT Libraries and the [MIT Museum](http://web.mit.edu/museum/).
-*   Build a functioning, durable printing press based on Early Modern European designs.
-*   Consider the parallels between the world of print in the Early Modern period and the rapidly changing media landscape today.
+- Learn about the history of the book in Europe from Gutenberg (ca. 1450) to the French Revolution (ca. 1800).
+- Examine in detail European books and prints from 1450 to 1800 in the [Rare Books Collection](https://libraries.mit.edu/distinctive-collections/collections/rare-books/) of the MIT Libraries and the [MIT Museum](http://web.mit.edu/museum/).
+- Build a functioning, durable printing press based on Early Modern European designs.
+- Consider the parallels between the world of print in the Early Modern period and the rapidly changing media landscape today.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 {{< quote "So much learning happens in the hands-on component [of a humanities course] when it is well integrated with the reading, writing, and historical materials because of all the time afforded for spontaneous conversation between faculty and students while engaged with the project." "— Anne McCants" >}}
 
-_In the following pages, Professors Anne McCants and Jeffrey Ravel describe various aspects of how they taught_ 21H.343J / CC.120J Making Books: The Renaissance and Today_._
+_In the following pages, Professors Anne McCants and Jeffrey Ravel describe various aspects of how they taught_ 21H.343J / CC.120J Making Books: The Renaissance and Today\_.\_
 
-*   {{% resource_link 2a10e49b-5443-b31f-0468-4df53672b9bf "Developing the Course" %}}
-*   {{% resource_link fd1f70ad-d824-664c-21d5-2724e20f0f61 "Using Archival Experiences to Ground Readings and Hands-on Learning" %}}
-*   {{% resource_link 668f604c-7420-f740-c83b-6c277ab6d628 "Allaying Educators’ Skepticism about Facilitating a Hands-on Humanities Course" %}}
-*   {{% resource_link c60e9eca-e373-eb11-c5a4-1cd63bb8c2aa "The Role of Online Fora" %}}
-*   {{% resource_link fc399584-e0b8-f0f6-6ecc-27362e24c09b "What Will Happen to the Printing Press Now?" %}}
+- {{% resource_link 2a10e49b-5443-b31f-0468-4df53672b9bf "Developing the Course" %}}
+- {{% resource_link fd1f70ad-d824-664c-21d5-2724e20f0f61 "Using Archival Experiences to Ground Readings and Hands-on Learning" %}}
+- {{% resource_link 668f604c-7420-f740-c83b-6c277ab6d628 "Allaying Educators’ Skepticism about Facilitating a Hands-on Humanities Course" %}}
+- {{% resource_link c60e9eca-e373-eb11-c5a4-1cd63bb8c2aa "The Role of Online Fora" %}}
+- {{% resource_link fc399584-e0b8-f0f6-6ecc-27362e24c09b "What Will Happen to the Printing Press Now?" %}}
 
-Student Insights
-----------------
+## Student Insights
 
 {{< quote "The experience of building the press meant I learned new woodshop skills and ideas about design instead of unanchored facts about printing and presses." "— Lauren Huang" >}}
 
-_In the following pages, Lauren Huang, an Electrical Engineering and Computer Science major, and Theodore Mouratidis, a recent graduate who studied Aerospace Engineering and Physics, describe their experiences as students in_ 21H.343J / CC.120J Making Books: The Renaissance and Today_._
+_In the following pages, Lauren Huang, an Electrical Engineering and Computer Science major, and Theodore Mouratidis, a recent graduate who studied Aerospace Engineering and Physics, describe their experiences as students in_ 21H.343J / CC.120J Making Books: The Renaissance and Today.
 
-*   {{% resource_link 6e66b540-6b39-3fac-1e79-7046355f90be "Lauren: Course Components and Ideas for Iteration" %}}
-*   {{% resource_link c7a86549-e9b1-bc62-479b-84ecf88b7294 "Theodore: Prelude to the Course and Building the Printing Press" %}}
+- {{% resource_link 6e66b540-6b39-3fac-1e79-7046355f90be "Lauren: Course Components and Ideas for Iteration" %}}
+- {{% resource_link c7a86549-e9b1-bc62-479b-84ecf88b7294 "Theodore: Prelude to the Course and Building the Printing Press" %}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -74,8 +66,7 @@ Offered for the first time in Spring 2016
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -84,8 +75,7 @@ The students' grades were based on the following activities:
 - 30% Two five-page papers
 - 30% Building a handset printing press
 
-Student Information
--------------------
+## Student Information
 
 {{< resource 8064e793-72d3-7fb7-40a3-2d08eec9c2aa >}}
 
@@ -105,33 +95,28 @@ Some of the students were also participants in the [Concourse](http://concourse.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 15 hours on the course, roughly divided as follows:
 
-Seminar
--------
+## Seminar
 
-*   Met 2 times per week for 1.5 hours per session; 13 sessions total; mandatory attendance.
-*   Class sessions were discussion-based and several included an exploration of items from MIT’s [Rare Books Collection](http://libraries.mit.edu/archives/research/rare-books.html).
-*   A field trip to the [MIT Museum](http://mitmuseum.mit.edu/) enabled students to view visual material dating from 1500 to 1800.
+- Met 2 times per week for 1.5 hours per session; 13 sessions total; mandatory attendance.
+- Class sessions were discussion-based and several included an exploration of items from MIT’s [Rare Books Collection](http://libraries.mit.edu/archives/research/rare-books.html).
+- A field trip to the [MIT Museum](http://mitmuseum.mit.edu/) enabled students to view visual material dating from 1500 to 1800.
 
-Hands-on Lab
-------------
+## Hands-on Lab
 
-*   Met twice a week for 1.5 hours per session; 13 sessions total; mandatory attendance.
-*   Students worked in the [MIT Hobby Shop](http://studentlife.mit.edu/hobbyshop) to design and build a printing press.
+- Met twice a week for 1.5 hours per session; 13 sessions total; mandatory attendance.
+- Students worked in the [MIT Hobby Shop](http://studentlife.mit.edu/hobbyshop) to design and build a printing press.
 
-Out of Class
-------------
+## Out of Class
 
-*   {{% resource_link 2bdc85db-fadb-365b-f11d-42f687b509c1 "Readings and screenings" %}} in preparation for class sessions
-*   {{% resource_link 82abea80-ae9a-391f-2cda-304f03f1072d "Four forum postings" %}}
-*   {{% resource_link 82abea80-ae9a-391f-2cda-304f03f1072d "Two papers" %}}
+- {{% resource_link 2bdc85db-fadb-365b-f11d-42f687b509c1 "Readings and screenings" %}} in preparation for class sessions
+- {{% resource_link 82abea80-ae9a-391f-2cda-304f03f1072d "Four forum postings" %}}
+- {{% resource_link 82abea80-ae9a-391f-2cda-304f03f1072d "Two papers" %}}
 
-Course Team Roles
------------------
+## Course Team Roles
 
 {{< quote "I love co-teaching. The conversation between faculty with different points of view, different areas of expertise, or even entirely different disciplinary training, is so much fun for instructors, and so valuable for students. If we want our students to be able to think broadly, and engage with difference productively, the best thing we can do in the classroom is to model how that works." "— Anne McCants" >}}
 
