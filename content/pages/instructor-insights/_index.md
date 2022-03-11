@@ -56,7 +56,7 @@ None
 
 ### Requirements Satisfied
 
-HASS-H ![General Institute Requirements](/images/educator/icon-question-hass-h.png)
+HASS-H
 
 21H.343J can be applied toward a [Bachelor of Science in Humanities and History](http://history.mit.edu/undergraduate), but is not required.
 
@@ -77,7 +77,9 @@ The students' grades were based on the following activities:
 
 ## Student Information
 
-{{< resource 8064e793-72d3-7fb7-40a3-2d08eec9c2aa >}}
+### Enrollment
+
+10 students
 
 ### Breakdown by Year
 
@@ -99,18 +101,18 @@ Some of the students were also participants in the [Concourse](http://concourse.
 
 During an average week, students were expected to spend 15 hours on the course, roughly divided as follows:
 
-## Seminar
+### Seminar
 
 - Met 2 times per week for 1.5 hours per session; 13 sessions total; mandatory attendance.
 - Class sessions were discussion-based and several included an exploration of items from MIT’s [Rare Books Collection](http://libraries.mit.edu/archives/research/rare-books.html).
 - A field trip to the [MIT Museum](http://mitmuseum.mit.edu/) enabled students to view visual material dating from 1500 to 1800.
 
-## Hands-on Lab
+### Hands-on Lab
 
 - Met twice a week for 1.5 hours per session; 13 sessions total; mandatory attendance.
 - Students worked in the [MIT Hobby Shop](http://studentlife.mit.edu/hobbyshop) to design and build a printing press.
 
-## Out of Class
+### Out of Class
 
 - {{% resource_link 2bdc85db-fadb-365b-f11d-42f687b509c1 "Readings and screenings" %}} in preparation for class sessions
 - {{% resource_link 82abea80-ae9a-391f-2cda-304f03f1072d "Four forum postings" %}}
