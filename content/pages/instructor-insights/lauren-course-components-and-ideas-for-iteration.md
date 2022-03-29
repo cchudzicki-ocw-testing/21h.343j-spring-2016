@@ -1,6 +1,7 @@
 ---
 content_type: page
 draft: false
+parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 title: 'Lauren: Course Components and Ideas for Iteration'
 uid: 6e66b540-6b39-3fac-1e79-7046355f90be
 ---
