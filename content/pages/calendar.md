@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a calendar featuring the course topics, hobby shop
+  sessions, field trips, and assignment due dates.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
