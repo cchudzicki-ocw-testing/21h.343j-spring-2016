@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
 draft: false
 title: Instructor Insights
 uid: 364e7205-8baf-876d-eff7-770f80369e00
