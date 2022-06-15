@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: "In this section, Theodore Mouratidis shares that his experience in 21H.141\
+  \ Renaissance to Revolution: Europe, 1300-1800 prepared him to fully engage with\
+  \ the course material in 21H.343J / CC.120J Making Books: The Renaissance and Today.\
+  \ He also discusses how building the printing press in \u201CMaking Books\u201D\
+  \ shaped his understanding of the process involved in producing script.  "
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
