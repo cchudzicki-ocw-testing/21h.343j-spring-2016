@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Lauren Huang shares how the different components of
+  21H.343J / CC.120J Making Books: The Renaissance and Today worked together, and
+  how she hopes the course will develop in future iterations.'
 draft: false
 parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 title: 'Lauren: Course Components and Ideas for Iteration'

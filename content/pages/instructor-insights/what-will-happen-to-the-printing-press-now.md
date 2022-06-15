@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Professor Jeffrey Ravel describes future plans for
+  the printing press built by students in 21H.343J / CC.120J Making Books: The Renaissance
+  and Today.  '
 draft: false
 parent_uid: 364e7205-8baf-876d-eff7-770f80369e00
 title: What Will Happen to the Printing Press Now?
