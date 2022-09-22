@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A thin, rough-edged, pink-tinged piece of paper with an emblem and the
     text "Stenographer's Notebook" printed on it.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection

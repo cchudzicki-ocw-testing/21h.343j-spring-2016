@@ -10,6 +10,7 @@ image_metadata:
   image-alt: A grey-haired bespectacled gentleman stands with four protective-goggle
     wearing students over the frame of a wooden structure.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection

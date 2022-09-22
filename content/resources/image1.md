@@ -32,6 +32,7 @@ image_metadata:
   image-alt: A line drawing showing the end view of a printing press with words identifying
     specific parts.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery I - Making the Beaver Press
 parent_type: CourseSection

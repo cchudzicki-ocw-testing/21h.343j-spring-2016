@@ -8,6 +8,7 @@ image_metadata:
   credit: Photograph by Jonathan Sachs / Jonathan Sachs Graphics, Inc.
   image-alt: A smiling, bespectacled woman carries a flat, thin, rough-edged object.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection

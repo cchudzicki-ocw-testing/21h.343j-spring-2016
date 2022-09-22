@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Four glove-wearing students stand over plastic water-filled containers
     filled with a pink, cotton-like substance.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery II
 parent_type: CourseSection
